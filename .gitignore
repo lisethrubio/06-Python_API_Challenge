@@ -3,5 +3,5 @@ api_keys.py
 
 # Adding _pycache_ and .ipynb_checkpints
 
-__pycache__/
+__pycache__
 .ipynb_checkpoints
